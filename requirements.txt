@@ -1,6 +1,6 @@
 streamlit
 catboost==1.2.5
-numpy==1.19.5
+numpy
 pandas
 setuptools
 cython
